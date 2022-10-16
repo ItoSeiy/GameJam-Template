@@ -2,7 +2,7 @@
 
 ## プレイ動画
 
-> YouTubeのURLを入れてください
+> YouTubeのURLを挿入
 
 ## クレジット
 
