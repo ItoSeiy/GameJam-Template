@@ -23,7 +23,7 @@
 
 | エンジン | バージョン  |
 | ---------- | ----------- |
-| Unity      | [こちらを参照](ProjectSettings/ProjectVersion.txt#L1) |
+| Unity      | [こちらを参照して下さい](ProjectSettings/ProjectVersion.txt#L1) |
 
 ## 導入済みアセット、素材
 
